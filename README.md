@@ -2,7 +2,7 @@
 
 Recientemente termine un curso de Red Team con los amigos de https://www.open-sec.com/ donde pude realizar diversos laboratorios en cada una de las fases de Red Team, en este artículo quisiera compartirles la implementación de un Comando y Control (C&C) y  nos enfocaremos en este punto, por tanto quedará por fuera los pasos previos y posteriores.
 
-<img src="/Users/jam620/Documents/Personal/Backtrack-academy/C2/img/exfiltracion-pasos.png" alt="exfiltracion-pasos" style="zoom: 33%;" />
+<img src="img/exfiltracion-pasos.png" alt="exfiltracion-pasos" style="zoom: 33%;" />
 
 **Fuente:** https://securityaffairs.co/wordpress/34883/hacking/prevent-data-exfiltration.html
 
